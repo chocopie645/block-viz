@@ -9,4 +9,4 @@ These were visualisations of responses to likert-style, multiple choice, and ope
 After processing survey responses in Excel, I grouped, filtered, and displayed results in Tableau as needed to create visualizations. Rather than only graphing Likert-scale responses, I also visualized results of hypothesis testing, including the magnitude and significance of differences  between year-groups, gender, self-identified cultural groups, and over time between 2017 and 2018 for each question, in order to achieve my aim of ensuring statistically informed visualizations. Additionally, I identified patterns and correlation over time within analysis of multiple student demographic subsets.
 
 <img align="center" img src="cop-viz.PNG" />
-Here is an example screenshot of a likert-scale visualization of survey results incorporating hypothesis testing. Interactive version will be uploaded in the near future."
+Here is an example screenshot of a likert-scale visualization of survey results incorporating hypothesis testing, with averages of responses (gray circles) ranging from 0-4. Interactive version will be uploaded in the near future.
